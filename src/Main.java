@@ -55,7 +55,7 @@ public class Main {
                 oneTwoThree[i] += 1;
             }
         }
-            System.out.println(Arrays.toString(oneTwoThree));
+            System.out.println(Arrays.toString(oneTwoThree) + "!");
 
         }
     }
